@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using VoglioDire.Api.src.Facades.Interfaces;
 using VoglioDire.Api.src.Models.Enums;
 
-namespace VoglioDire.Api2.Controllers
+namespace VoglioDire.Api.Controller
 {
     [ApiController]
     [Route("api")]
